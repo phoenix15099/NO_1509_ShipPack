@@ -1,2 +1,3 @@
 # NO_1509_ShipPack
 A repository for the ship pack mod
+Currently only contains the Destrier class battleship
